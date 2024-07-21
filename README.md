@@ -69,4 +69,4 @@ Integration of Strava API is work in progress.
    - "What was the maximum heartrate recorded?"
    - "List all activities with elevation gain greater than 500 meters."
 
-[Example chat with dataframe](demo/StridesChatDemo.mp4)
+![Example chat with dataframe](demo/StridesChatDemo.gif)
