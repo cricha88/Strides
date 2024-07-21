@@ -1,5 +1,14 @@
+# ENV
 .env
+
+# VIRTUAL ENVIRONMENT
 myspotenv/
+
+# OTHER FILES
 *.json
+*.csv
 *.pdf
-*.png
+*.exe
+*.ipynb
+*.log
+ignore/
