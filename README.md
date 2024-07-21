@@ -50,7 +50,7 @@ Integration of Strava API is work in progress.
 
 ### Overview Plots
 
-![App Screenshot Overview Plot](Strides1.png)
+![App Screenshot Overview Plot](demo/Strides1.png)
 
 
 ### Interactive Plots
@@ -59,7 +59,7 @@ Integration of Strava API is work in progress.
 2. **Select a Statistic**: Use the dropdown menu to select which statistic you want to visualize (e.g., speed, heartrate, distance, elevation).
 3. **View the Plot**: The selected statistic will be plotted over time, split by activity type.
 
-![App Screenshot Interactive Plot](Strides2.png)
+![App Screenshot Interactive Plot](demo/Strides2.png)
 
 
 ### Data Chat
@@ -69,15 +69,8 @@ Integration of Strava API is work in progress.
    - "What was the maximum heartrate recorded?"
    - "List all activities with elevation gain greater than 500 meters."
 
-<video width="600" controls>
-  <source src="StridesChat1.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Example chat with dataframe](demo/StridesChat1.mp4)
 
-<video width="600" controls>
-  <source src="StridesChat2.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
+![Example chat with dataframe](demo/StridesChat2.mp4)
 
 
